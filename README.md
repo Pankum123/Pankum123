@@ -1,3 +1,5 @@
+<img width="1024" height="882" alt="pankaj" src="https://github.com/user-attachments/assets/677e7d54-fff2-44a6-983f-f94cde2391e1" />
+
 <h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
